@@ -19,7 +19,7 @@ const data = [
   {
     name: 'Heavy Kong',
     power: 'Soco',
-    rank: 'A',
+    rank: 'E',
   },
   {
     name: 'Mumen Rider',
